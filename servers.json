@@ -1,0 +1,24 @@
+{
+  "servers": [
+    {
+      "id": "official",
+      "name": "Основной",
+      "description": "Основной сервер ilyshaGram",
+      "host": "26.89.222.2",
+      "port": 2398,
+      "rsaPublicKey": "-----BEGIN RSA PUBLIC KEY-----\nMIIBCgKCAQEAxF//0M0+/5PzgdNagTX+J+dJgr75ZCTuiG8i4x7YwmJF+jiOGCjm\n7X7BLCaMc1+hOZYDL3+Gvle/AKykW1qouaCJMVx/H+2l8LFXLelZ2PLawTb8A7Bl\nTqWzL3db5BugMNWziL9TuhR8In1bwKY07QVpR9in5zjAsAGLBk+mGt0DnVyMf1Xo\np2lLCFNmm0F4ykcAeaLCCIPbGWddliLY8xEEhI4GO2l1U3kZMwIOdOnAGJFtgUAo\nTe+FHR6F1s9adCVZB1teL/hf9R+WmekJwygVz0MYEH7y6U49T45+/W7OF6X6g0W0\nj1uSSrsY4qN7twxbTad9zdGZ7ys+9v+PuQIDAQAB\n-----END RSA PUBLIC KEY-----",
+      "multiDc": false,
+      "mainDcId": 1
+    },
+    {
+      "id": "backup",
+      "name": "Резервный",
+      "description": "Резервный сервер (fumaz0)",
+      "host": "26.48.168.151",
+      "port": 2398,
+      "rsaPublicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxF//0M0+/5PzgdNagTX+\nJ+dJgr75ZCTuiG8i4x7YwmJF+jiOGCjm7X7BLCaMc1+hOZYDL3+Gvle/AKykW1qo\nuaCJMVx/H+2l8LFXLelZ2PLawTb8A7BlTqWzL3db5BugMNWziL9TuhR8In1bwKY0\n7QVpR9in5zjAsAGLBk+mGt0DnVyMf1Xop2lLCFNmm0F4ykcAeaLCCIPbGWddliLY\n8xEEhI4GO2l1U3kZMwIOdOnAGJFtgUAoTe+FHR6F1s9adCVZB1teL/hf9R+WmekJ\nwygVz0MYEH7y6U49T45+/W7OF6X6g0W0j1uSSrsY4qN7twxbTad9zdGZ7ys+9v+P\nuQIDAQAB\n-----END PUBLIC KEY-----",
+      "multiDc": false,
+      "mainDcId": 2
+    }
+  ]
+}
